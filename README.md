@@ -94,6 +94,8 @@ The switch is a little small and harder to print, however it is doable with the 
 
 ![Imgur](https://i.imgur.com/j43d2Gm.png)
 
+If you are printing your case at 103% like I am, be sure to print the switch at 100% or it might not fit. It also may be necessary to use a soldering iron to melt the opening for the switch to be a bit wider in order for the switch to fit.
+
 *These settings worked well for me, but your printer may need some slight adjustment. Layer height especially may be challenging for some printers.*
 *Take your time and take it slow, I've printed more than a handfull now.*
 *Don't print in the middle because on many printers that's a low spot, and this would hinder the adhesion needed to keep this little part stuck down.*
